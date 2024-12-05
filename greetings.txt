@@ -1,1 +1,1 @@
-Your new message here
+This is a message from my cloned repository
